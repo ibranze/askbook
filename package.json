@@ -1,0 +1,16 @@
+{
+  "name": "kurulum",
+  "version": "1.0.0",
+  "description": "node js kurulumu",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "ibrahim kaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
